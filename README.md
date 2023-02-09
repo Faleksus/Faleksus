@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Connect with me:
+![image](https://user-images.githubusercontent.com/70090594/217798664-ca52486f-52d6-4405-ab8b-000d8fb36ba6.png)
+
 <!--
 **Faleksus/Faleksus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
