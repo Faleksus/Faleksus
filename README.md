@@ -8,7 +8,7 @@ My stack:
   
 <img src="https://img.shields.io/badge/HTML5-gray?style=for-the-badge&logo=HTML5" /> <img src="https://img.shields.io/badge/CSS3-gray?style=for-the-badge&logo=CSS3&logoColor=blue" /> <img src="https://img.shields.io/badge/SASS-gray?style=for-the-badge&logo=SASS&logoColor=pink" /> <img src="https://img.shields.io/badge/HTML5-gray?style=for-the-badge&logo=HTML5&logoColor=blue" /> <img src="https://img.shields.io/badge/HTML5-grayhttps://img.shields.io/endpoint?url=https://www.linkedin.com/in/oleksiifrolov/?style=for-the-badge&logo=HTML5&logoColor=blue" />
 
-![image](https://user-images.githubusercontent.com/70090594/217805071-784846bd-0ffe-4bc7-a822-6fc7f246bd33.png) ![image](https://user-images.githubusercontent.com/70090594/217805182-2f621322-c198-44af-9baa-d75c366cd082.png)
+![image](https://user-images.githubusercontent.com/70090594/217805071-784846bd-0ffe-4bc7-a822-6fc7f246bd33.png) ![[image](https://camo.githubusercontent.com/8280104c77ff20e7b7cd51e275376ad2bc440ae211591f104451602fec5b17bc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d3535353f6c6f676f3d68746d6c35267374796c653d666f722d7468652d6261646765)](https://user-images.githubusercontent.com/70090594/217805182-2f621322-c198-44af-9baa-d75c366cd082.png)
 
 
 
