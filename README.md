@@ -8,6 +8,9 @@ My stack:
   
 <img src="https://img.shields.io/badge/HTML5-gray?style=for-the-badge&logo=HTML5" /> <img src="https://img.shields.io/badge/CSS3-gray?style=for-the-badge&logo=CSS3&logoColor=blue" /> <img src="https://img.shields.io/badge/SASS-gray?style=for-the-badge&logo=SASS&logoColor=pink" /> <img src="https://img.shields.io/badge/HTML5-gray?style=for-the-badge&logo=HTML5&logoColor=blue" /> <img src="https://img.shields.io/badge/HTML5-grayhttps://img.shields.io/endpoint?url=https://www.linkedin.com/in/oleksiifrolov/?style=for-the-badge&logo=HTML5&logoColor=blue" />
 
+![image](https://user-images.githubusercontent.com/70090594/217805071-784846bd-0ffe-4bc7-a822-6fc7f246bd33.png)
+
+
 <!--
 **Faleksus/Faleksus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
